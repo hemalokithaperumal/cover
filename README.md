@@ -36,7 +36,7 @@ Publish the website in the LocalHost.
 <html>
 
 <head>
-    <title>Music</title>
+    <title>BOOK FOR IOT</title>
     <style>
         .bookpage{
 
@@ -162,7 +162,6 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![OUTPUT](<Screenshot (43).png>)
-
+![OUTPUT](<Screenshot (44).png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
